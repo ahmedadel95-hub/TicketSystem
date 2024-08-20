@@ -57,10 +57,6 @@ namespace Application.BackgroundServices
             {
                 ticket.Color = (int)TicketColorEnum.Green;
             }
-            else if (ageInMinutes >= 15)
-            {
-                ticket.Color = (int)TicketColorEnum.Yellow;
-            }
         }
     }
 }
