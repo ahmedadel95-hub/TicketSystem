@@ -1,1 +1,14 @@
-Ticket Management System using Clean architecture as a design architecture with CQRS design pattern and Minimal APIs.
+Ticket Management System 
+--
+--- .NET 7 with Clean architecture as an architectural pattern.
+--
+--- CQRS (Command & Query Responsibilty Segragation) as a design and architectural pattern.
+--
+--- Minimal APIs
+--
+--- MediatR 
+---
+--- Entity Framework Core with Code first
+--
+-- Background Services using Microsoft.Extensions.Hosting nugetPackage
+--
