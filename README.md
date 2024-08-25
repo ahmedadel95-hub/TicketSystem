@@ -1,4 +1,7 @@
 Ticket Management System 
+
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/5bcd0d65-1dfb-475a-bfd9-b3a2ecec1509">
+
 --
 --- .NET 7 with Clean architecture as an architectural pattern.
 --
@@ -12,6 +15,3 @@ Ticket Management System
 --
 -- Background Services using Microsoft.Extensions.Hosting nugetPackage
 --
-
-<img width="955" alt="image" src="https://github.com/user-attachments/assets/5bcd0d65-1dfb-475a-bfd9-b3a2ecec1509">
-
